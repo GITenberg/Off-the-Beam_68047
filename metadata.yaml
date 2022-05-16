@@ -7,6 +7,9 @@ contributor:
     deathdate: 1974
     gutenberg_agent_id: '34272'
     url: http://www.gutenberg.org/2009/agents/34272
+covers:
+- cover_type: archival
+  image_path: 68047-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, George O. (George Oliver)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8137
     wikipedia: https://en.wikipedia.org/wiki/George_O._Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68047#Off-the-Beam
 gutenberg_issued: '2022-05-10'
 identifiers:
   gutenberg: '68047'
